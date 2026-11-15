@@ -1,7 +1,4 @@
-7 8 2 3 4 5 
+10 -5 3 8
 Merge
-Merge: 2 3 4 5 7 8
-Insertion: 2 3 4 5 7 8
-Insertion: 2 3 4 5 7 8
-Merge: 2 3 4 5 7 8
-Merge: 2 3 4 5 7 8
+Merge: -5 3 8 10
+Merge: -5 3 8 10
